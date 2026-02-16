@@ -44,6 +44,6 @@ mvn spring-boot:run
 |-----|--------|------------|
 | /userReg/createUser | POST | Register new user |
 | /userlogin/send?email=email@gmail.com | POST | Send OTP  |
-| /userlogin/verify-otp?email=sharma.kriti2699@gmail.com&otp=995412 | POST | OTP verification and get JWT token |
+| /userlogin/verify-otp?email=email@gmail.com&otp=995412 | POST | OTP verification and get JWT token |
 
 ---
